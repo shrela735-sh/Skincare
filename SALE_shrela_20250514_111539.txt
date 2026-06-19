@@ -1,0 +1,12 @@
+WeCare Skincare Store Invoice
+
+Customer: shrela
+
+Product Details:
+Product Name              Qty        Free Item            Total
+----------------------------------------------------------------------
+Kojic Acid Lip Balm      3         1                   Rs. 1500.00
+----------------------------------------------------------------------
+Total Amount: Rs. 1500.00
+Free Items: 1
+Thank you for shopping with us. We hope you had a great time!

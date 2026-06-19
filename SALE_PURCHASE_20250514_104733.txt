@@ -1,0 +1,12 @@
+WeCare Skincare Store Invoice
+
+Customer: PURCHASE
+
+Product Details:
+Product Name              Qty        Free Item            Total
+----------------------------------------------------------------------
+Sunscreen                2         0                   Rs. 1400.00
+----------------------------------------------------------------------
+Total Amount: Rs. 1400.00
+Free Items: 0
+Thank you for shopping with us. We hope you had a great time!

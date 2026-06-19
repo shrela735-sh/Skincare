@@ -1,0 +1,13 @@
+=== SALES INVOICE ===
+Date: 2025-05-14 09:48:55.860854
+Customer: shrela
+----------------------------------------
+Product: Kojic Acid Lip Balm
+Brand: The Derma Co
+Quantity Paid: 3
+Free Items: 1
+Unit Price: 500
+Subtotal: 1500
+----------------------------------------
+TOTAL AMOUNT: 1500
+========================================

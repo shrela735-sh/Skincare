@@ -1,0 +1,13 @@
+=== SALES INVOICE ===
+Date: 2025-05-14 10:03:49.225014
+Customer: PURCHASE
+----------------------------------------
+Product: sunscreen
+Brand: aqualogica
+Quantity Paid: 3
+Free Items: 1
+Unit Price: 700
+Subtotal: 2100
+----------------------------------------
+TOTAL AMOUNT: 2100
+========================================
